@@ -1,0 +1,44 @@
+{
+"cart": [
+    {
+      "product": {
+        "id": 3,
+        "name": "Samsung",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "imgUrl": "https://m.media-amazon.com/images/I/71FutyZQeXL._SL1500_.jpg",
+        "price": 1000
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Samsung",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "imgUrl": "https://m.media-amazon.com/images/I/71FutyZQeXL._SL1500_.jpg",
+        "price": 1000
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Samsung",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+        "imgUrl": "https://m.media-amazon.com/images/I/71FutyZQeXL._SL1500_.jpg",
+        "price": 1000
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "LG",
+        "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+        "imgUrl": "https://www.luluhypermarket.in/medias/1023344-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MDk3MTl8aW1hZ2UvanBlZ3xoMjgvaDYyLzg5MDA4MjEzNTI0NzgvMTAyMzM0NC0wMS5qcGdfMTIwMFd4MTIwMEh8ZDI0MTkxYWNmZTI4MzdiYmY1NTAyODBmZTkwNjY4ZTA2YWY5NDQ5NjJkYjkwNmVkMzhjNjZiYThlODhiNWJkZA",
+        "price": 500
+      },
+      "id": 4
+    }
+  ]
+}

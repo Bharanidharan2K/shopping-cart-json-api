@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Realme",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "imgUrl": "https://images.priceoye.pk/haier-32-inch-smart-hd-led-tv-le32k6600g-pakistan-priceoye-0nzcb-500x500.webp",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "LG",
+      "description": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages",
+      "imgUrl": "https://www.luluhypermarket.in/medias/1023344-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3w0MDk3MTl8aW1hZ2UvanBlZ3xoMjgvaDYyLzg5MDA4MjEzNTI0NzgvMTAyMzM0NC0wMS5qcGdfMTIwMFd4MTIwMEh8ZDI0MTkxYWNmZTI4MzdiYmY1NTAyODBmZTkwNjY4ZTA2YWY5NDQ5NjJkYjkwNmVkMzhjNjZiYThlODhiNWJkZA",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "name": "Samsung",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
+      "imgUrl": "https://m.media-amazon.com/images/I/71FutyZQeXL._SL1500_.jpg",
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "name": "Sony",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour",
+      "imgUrl": "https://m.media-amazon.com/images/I/71vZypjNkPS._SL1500_.jpg",
+      "price": 1500
+    },
+    {
+      "id": 5,
+      "name": "OLED",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots",
+      "imgUrl": "https://www.butterflygroupbd.com/media/catalog/product/cache/65c39cc83905c3b1d2d2bf926bb9de08/l/g/lg_32_inch_hd_led_tv.jpg",
+      "price": 2000
+    }
+  ],
+}
